@@ -159,4 +159,4 @@ dmypy.json
 ### Project Specific ###
 # Do not include the active settings file, use config/config.json.example
 # instead and make sure you sanitize your settings for sensitive data
-.config/config.json
+config/*.json
