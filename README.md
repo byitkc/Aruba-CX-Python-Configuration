@@ -1,2 +1,3 @@
-# Aruba-CX-Python-Configuration
-A group of functions that can be used to configure Aruba CX Switches. Written in Python.
+# Aruba CX Python Configuration
+
+Python Modules and Scripts to configure different pieces of an Aruba CX switch
